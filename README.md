@@ -1,5 +1,5 @@
 
-![Alt text](https://github.com/AndresPonciano/AndresPonciano/blob/main/spaceship.jpg) "Github Banner AP")
+![Alt text](https://github.com/AndresPonciano/AndresPonciano/blob/main/spaceship.jpg "Github Banner AP")
 ### Hey!
 
 I'm **Andrés**.
