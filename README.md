@@ -1,5 +1,5 @@
-[logo]: https://github.com/AndresPonciano/spaceship.jpg "Github Banner AP"
-![Alt text]([https://github.com/AndresPonciano/AndresPonciano/spaceship.jpg](https://github.com/AndresPonciano/AndresPonciano/blob/main/spaceship.jpg) "Github Banner AP")
+
+![Alt text](https://github.com/AndresPonciano/AndresPonciano/blob/main/spaceship.jpg) "Github Banner AP")
 ### Hey!
 
 I'm **Andrés**.
